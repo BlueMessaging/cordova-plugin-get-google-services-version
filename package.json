@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-get-google-services-version",
+  "version": "0.0.1",
+  "description": "This plugin validates if a certain google services version is equals or higher than the one is installed on the device",
+  "cordova": {
+    "id": "cordova-plugin-get-google-services-version",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Javier Castro",
+  "license": "ISC"
+}
