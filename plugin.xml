@@ -16,7 +16,7 @@
 		<config-file parent="/*" target="AndroidManifest.xml"></config-file>
 		<source-file src="src/android/GetGoogleServicesVersion.java" target-dir="src/com/bm/plugins/GetGoogleServicesVersion" />
 		<framework src="src/android/build.gradle" custom="true" type="gradleReference" />
-		<framework src="com.google.gms:google-services:3.1.0" />
-		<framework src="com.google.android.gms:play-services-base:11.+" />
+		<framework src="com.google.gms:google-services:4.1.0" />
+		<framework src="com.google.android.gms:play-services-base:16.+" />
 	</platform>
 </plugin>
